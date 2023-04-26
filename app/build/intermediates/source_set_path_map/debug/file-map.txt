@@ -1,0 +1,79 @@
+com.example.jetpackcomp.app-lifecycle-livedata-core-2.5.1-0 C:\Users\raman\.gradle\caches\transforms-3\09fa6413784c9331c37e958f320ac8ba\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.jetpackcomp.app-room-runtime-2.4.3-1 C:\Users\raman\.gradle\caches\transforms-3\14c38afabdb8d1ac17c7b76d90697260\transformed\room-runtime-2.4.3\res
+com.example.jetpackcomp.app-room-ktx-2.4.3-2 C:\Users\raman\.gradle\caches\transforms-3\151b676e4ae14ac7193244fae71f9317\transformed\room-ktx-2.4.3\res
+com.example.jetpackcomp.app-material-icons-core-1.3.1-3 C:\Users\raman\.gradle\caches\transforms-3\1670ce2838c8149516f1db20cf4559d9\transformed\material-icons-core-1.3.1\res
+com.example.jetpackcomp.app-appcompat-resources-1.4.2-4 C:\Users\raman\.gradle\caches\transforms-3\19750a9cf5f87e81c82487438708c0b0\transformed\appcompat-resources-1.4.2\res
+com.example.jetpackcomp.app-activity-compose-1.6.1-5 C:\Users\raman\.gradle\caches\transforms-3\1a0a5e0f217b52b0cc158278437bb94b\transformed\activity-compose-1.6.1\res
+com.example.jetpackcomp.app-hilt-navigation-compose-1.0.0-6 C:\Users\raman\.gradle\caches\transforms-3\25882f9e778dd4097600e5e207712ebd\transformed\hilt-navigation-compose-1.0.0\res
+com.example.jetpackcomp.app-coordinatorlayout-1.1.0-7 C:\Users\raman\.gradle\caches\transforms-3\2b7976d27be531e32527decec59d9681\transformed\coordinatorlayout-1.1.0\res
+com.example.jetpackcomp.app-animation-core-1.3.2-8 C:\Users\raman\.gradle\caches\transforms-3\2d6c6a0b0a42887fba15fa0c3d4963fe\transformed\animation-core-1.3.2\res
+com.example.jetpackcomp.app-ui-unit-1.4.0-alpha03-9 C:\Users\raman\.gradle\caches\transforms-3\34a23c4f17e6c0ed6cfc6efd32da1d83\transformed\ui-unit-1.4.0-alpha03\res
+com.example.jetpackcomp.app-lifecycle-livedata-core-ktx-2.5.1-10 C:\Users\raman\.gradle\caches\transforms-3\379900c5278c8698f0428d58eb092ec2\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.jetpackcomp.app-material-1.4.0-beta01-11 C:\Users\raman\.gradle\caches\transforms-3\38b987b77543c04a85f4ca045f1e67e6\transformed\material-1.4.0-beta01\res
+com.example.jetpackcomp.app-runtime-1.4.0-alpha03-12 C:\Users\raman\.gradle\caches\transforms-3\3bb11637cfc1d1fb5ea65ece769db5c2\transformed\runtime-1.4.0-alpha03\res
+com.example.jetpackcomp.app-navigation-fragment-ktx-2.5.3-13 C:\Users\raman\.gradle\caches\transforms-3\3f348fdaf7bfd5cd4641c296047641c0\transformed\navigation-fragment-ktx-2.5.3\res
+com.example.jetpackcomp.app-coil-base-2.2.2-14 C:\Users\raman\.gradle\caches\transforms-3\408b0d92d8cb40971ddd4b1eec6270f4\transformed\coil-base-2.2.2\res
+com.example.jetpackcomp.app-animation-1.3.2-15 C:\Users\raman\.gradle\caches\transforms-3\4161db02182e19cf86715ec7d22fc9b6\transformed\animation-1.3.2\res
+com.example.jetpackcomp.app-material-ripple-1.3.1-16 C:\Users\raman\.gradle\caches\transforms-3\45d11fcf80ed009dde2141f040e8c672\transformed\material-ripple-1.3.1\res
+com.example.jetpackcomp.app-navigation-runtime-ktx-2.5.3-17 C:\Users\raman\.gradle\caches\transforms-3\5199a0ff895801d560bac1ca49cd42c4\transformed\navigation-runtime-ktx-2.5.3\res
+com.example.jetpackcomp.app-ui-test-manifest-1.3.2-18 C:\Users\raman\.gradle\caches\transforms-3\53563631583a10454586a2cae633bd5e\transformed\ui-test-manifest-1.3.2\res
+com.example.jetpackcomp.app-cardview-1.0.0-19 C:\Users\raman\.gradle\caches\transforms-3\5388d099aedb9cb1170cec59f730c508\transformed\cardview-1.0.0\res
+com.example.jetpackcomp.app-navigation-common-ktx-2.5.3-20 C:\Users\raman\.gradle\caches\transforms-3\5797672cb5bc99fdcce3c1810ef9c852\transformed\navigation-common-ktx-2.5.3\res
+com.example.jetpackcomp.app-navigation-ui-ktx-2.5.3-21 C:\Users\raman\.gradle\caches\transforms-3\5b9dea0efaf9d82313f40f31a6c15783\transformed\navigation-ui-ktx-2.5.3\res
+com.example.jetpackcomp.app-runtime-livedata-1.3.2-22 C:\Users\raman\.gradle\caches\transforms-3\5bb5bae4a4982e553ab720cd57057bcd\transformed\runtime-livedata-1.3.2\res
+com.example.jetpackcomp.app-ui-tooling-data-1.3.2-23 C:\Users\raman\.gradle\caches\transforms-3\6078ac8349db0932c5658ba592cc20e8\transformed\ui-tooling-data-1.3.2\res
+com.example.jetpackcomp.app-fragment-ktx-1.5.4-24 C:\Users\raman\.gradle\caches\transforms-3\6290e949c8d0792ce3a75085f182144f\transformed\fragment-ktx-1.5.4\res
+com.example.jetpackcomp.app-foundation-1.4.0-alpha03-25 C:\Users\raman\.gradle\caches\transforms-3\652640ef8773a73e8efecb7c91d984c7\transformed\foundation-1.4.0-alpha03\res
+com.example.jetpackcomp.app-navigation-ui-2.5.3-26 C:\Users\raman\.gradle\caches\transforms-3\67f606e7ead88719324dc95715a3cd19\transformed\navigation-ui-2.5.3\res
+com.example.jetpackcomp.app-sqlite-framework-2.2.0-27 C:\Users\raman\.gradle\caches\transforms-3\68a437f6bcdd4282394b541f8d96e346\transformed\sqlite-framework-2.2.0\res
+com.example.jetpackcomp.app-material-1.0.0-28 C:\Users\raman\.gradle\caches\transforms-3\6cc863a1732102ea19833ef75bd1f7e7\transformed\material-1.0.0\res
+com.example.jetpackcomp.app-annotation-experimental-1.3.0-29 C:\Users\raman\.gradle\caches\transforms-3\6d98d40ecaf1ac702aa384462abf6188\transformed\annotation-experimental-1.3.0\res
+com.example.jetpackcomp.app-navigation-fragment-2.5.3-30 C:\Users\raman\.gradle\caches\transforms-3\71c6693f6c2dd1d216bf9d45d0ffb6b3\transformed\navigation-fragment-2.5.3\res
+com.example.jetpackcomp.app-recyclerview-1.1.0-31 C:\Users\raman\.gradle\caches\transforms-3\7433e869cc0569b5fee999379357a017\transformed\recyclerview-1.1.0\res
+com.example.jetpackcomp.app-emoji2-1.2.0-32 C:\Users\raman\.gradle\caches\transforms-3\74a558b3dcfd244d55209ca557630501\transformed\emoji2-1.2.0\res
+com.example.jetpackcomp.app-material3-1.1.0-alpha03-33 C:\Users\raman\.gradle\caches\transforms-3\776368545bd93bd3e93fe0a7a4b7e4ff\transformed\material3-1.1.0-alpha03\res
+com.example.jetpackcomp.app-drawerlayout-1.1.1-34 C:\Users\raman\.gradle\caches\transforms-3\7972d3b6e213756adab8763b448a8334\transformed\drawerlayout-1.1.1\res
+com.example.jetpackcomp.app-viewpager2-1.0.0-35 C:\Users\raman\.gradle\caches\transforms-3\7a795e757868f7c70a5bad1573754373\transformed\viewpager2-1.0.0\res
+com.example.jetpackcomp.app-savedstate-ktx-1.2.0-36 C:\Users\raman\.gradle\caches\transforms-3\7b1bbd81b7b83b36bb96878ac0305f1f\transformed\savedstate-ktx-1.2.0\res
+com.example.jetpackcomp.app-window-1.0.0-37 C:\Users\raman\.gradle\caches\transforms-3\80547fb072142c6142de5377380e874e\transformed\window-1.0.0\res
+com.example.jetpackcomp.app-navigation-common-2.5.3-38 C:\Users\raman\.gradle\caches\transforms-3\8be66cb58c719c422507f7883d485e23\transformed\navigation-common-2.5.3\res
+com.example.jetpackcomp.app-lifecycle-process-2.4.1-39 C:\Users\raman\.gradle\caches\transforms-3\8d6252f20c919446091b21b2c191f0bb\transformed\lifecycle-process-2.4.1\res
+com.example.jetpackcomp.app-ui-geometry-1.4.0-alpha03-40 C:\Users\raman\.gradle\caches\transforms-3\8e75390dc53455623a48beb838a7d698\transformed\ui-geometry-1.4.0-alpha03\res
+com.example.jetpackcomp.app-slidingpanelayout-1.2.0-41 C:\Users\raman\.gradle\caches\transforms-3\8f8255cf5bed8cd618cf90e3d2d8d53e\transformed\slidingpanelayout-1.2.0\res
+com.example.jetpackcomp.app-lifecycle-viewmodel-2.5.1-42 C:\Users\raman\.gradle\caches\transforms-3\9069468282190e2a87f31332e45f74fd\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.jetpackcomp.app-constraintlayout-2.0.1-43 C:\Users\raman\.gradle\caches\transforms-3\928ef3b6775c01fc64397ec1afec0bf7\transformed\constraintlayout-2.0.1\res
+com.example.jetpackcomp.app-core-ktx-1.9.0-44 C:\Users\raman\.gradle\caches\transforms-3\93448161d006d6df64bed5eba0e7a564\transformed\core-ktx-1.9.0\res
+com.example.jetpackcomp.app-ui-1.4.0-alpha03-45 C:\Users\raman\.gradle\caches\transforms-3\936c8585cb89667001c8fdaaa0d5712c\transformed\ui-1.4.0-alpha03\res
+com.example.jetpackcomp.app-activity-1.6.1-46 C:\Users\raman\.gradle\caches\transforms-3\96364b4136b54adc49bac071316e318e\transformed\activity-1.6.1\res
+com.example.jetpackcomp.app-hilt-navigation-1.0.0-47 C:\Users\raman\.gradle\caches\transforms-3\9e952a2375c091c4915ebe6b12ad0d29\transformed\hilt-navigation-1.0.0\res
+com.example.jetpackcomp.app-navigation-compose-2.5.3-48 C:\Users\raman\.gradle\caches\transforms-3\a3945860c5faf58eee05f8d046885753\transformed\navigation-compose-2.5.3\res
+com.example.jetpackcomp.app-lifecycle-viewmodel-compose-2.5.1-49 C:\Users\raman\.gradle\caches\transforms-3\b86db96bc16375140329a26b1d62ae77\transformed\lifecycle-viewmodel-compose-2.5.1\res
+com.example.jetpackcomp.app-lifecycle-runtime-ktx-2.5.1-50 C:\Users\raman\.gradle\caches\transforms-3\b9bc62b0ad8d5af1f6fc23933f352f6f\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.jetpackcomp.app-appcompat-1.2.0-51 C:\Users\raman\.gradle\caches\transforms-3\ba91edf2c1fcd698c7c38d7343aeed5c\transformed\appcompat-1.2.0\res
+com.example.jetpackcomp.app-ui-graphics-1.4.0-alpha03-52 C:\Users\raman\.gradle\caches\transforms-3\beff091ed41306da05523f63614bb24a\transformed\ui-graphics-1.4.0-alpha03\res
+com.example.jetpackcomp.app-customview-poolingcontainer-1.0.0-53 C:\Users\raman\.gradle\caches\transforms-3\c45aaf4966af3e9920310dcd389420e4\transformed\customview-poolingcontainer-1.0.0\res
+com.example.jetpackcomp.app-lifecycle-viewmodel-savedstate-2.5.1-54 C:\Users\raman\.gradle\caches\transforms-3\c6ad95dadbce82a95a693e6617b028fc\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.jetpackcomp.app-lifecycle-runtime-2.5.1-55 C:\Users\raman\.gradle\caches\transforms-3\caed933659c1415feb76dc8af432f8de\transformed\lifecycle-runtime-2.5.1\res
+com.example.jetpackcomp.app-ui-text-1.4.0-alpha03-56 C:\Users\raman\.gradle\caches\transforms-3\cf40dbe02ecd29052a22abf90530a2a2\transformed\ui-text-1.4.0-alpha03\res
+com.example.jetpackcomp.app-sqlite-2.2.0-57 C:\Users\raman\.gradle\caches\transforms-3\d11f9ecda9c4fc1466a5e9038f439e4a\transformed\sqlite-2.2.0\res
+com.example.jetpackcomp.app-lifecycle-viewmodel-ktx-2.5.1-58 C:\Users\raman\.gradle\caches\transforms-3\d225a98dd33777fa948b74023e2c35ad\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.jetpackcomp.app-foundation-layout-1.4.0-alpha03-59 C:\Users\raman\.gradle\caches\transforms-3\d603163fffd9e1e879bb40c327764892\transformed\foundation-layout-1.4.0-alpha03\res
+com.example.jetpackcomp.app-ui-util-1.4.0-alpha03-60 C:\Users\raman\.gradle\caches\transforms-3\d672b4ecdcdd421df8c9fa01fa7099c7\transformed\ui-util-1.4.0-alpha03\res
+com.example.jetpackcomp.app-ui-tooling-preview-1.3.2-61 C:\Users\raman\.gradle\caches\transforms-3\dafa1b5e29608b56284014f458c0b8ed\transformed\ui-tooling-preview-1.3.2\res
+com.example.jetpackcomp.app-profileinstaller-1.2.0-62 C:\Users\raman\.gradle\caches\transforms-3\de08cd15bb9e9645ef66cd2ece2a15d9\transformed\profileinstaller-1.2.0\res
+com.example.jetpackcomp.app-activity-ktx-1.6.1-63 C:\Users\raman\.gradle\caches\transforms-3\e13d23d9177c4bb88dbf277a62cf9daf\transformed\activity-ktx-1.6.1\res
+com.example.jetpackcomp.app-savedstate-1.2.0-64 C:\Users\raman\.gradle\caches\transforms-3\e238b16c44d2f68e3279756eb62f3c61\transformed\savedstate-1.2.0\res
+com.example.jetpackcomp.app-startup-runtime-1.1.1-65 C:\Users\raman\.gradle\caches\transforms-3\e2cfe41bed9a86f3b79148f5aa8c2942\transformed\startup-runtime-1.1.1\res
+com.example.jetpackcomp.app-fragment-1.5.4-66 C:\Users\raman\.gradle\caches\transforms-3\e46dbedb0cc957ebdc335328a7cc5e42\transformed\fragment-1.5.4\res
+com.example.jetpackcomp.app-navigation-runtime-2.5.3-67 C:\Users\raman\.gradle\caches\transforms-3\e5288143b10737005f5ff57576597eaf\transformed\navigation-runtime-2.5.3\res
+com.example.jetpackcomp.app-ui-tooling-1.3.2-68 C:\Users\raman\.gradle\caches\transforms-3\f0e029cb106adc7fde257f45257c1215\transformed\ui-tooling-1.3.2\res
+com.example.jetpackcomp.app-transition-1.4.1-69 C:\Users\raman\.gradle\caches\transforms-3\f38f5e4c22e897b782f4e92265a5e2e4\transformed\transition-1.4.1\res
+com.example.jetpackcomp.app-core-1.9.0-70 C:\Users\raman\.gradle\caches\transforms-3\f4477b0e6f4db0c15f94c8317cc5c71b\transformed\core-1.9.0\res
+com.example.jetpackcomp.app-runtime-saveable-1.4.0-alpha03-71 C:\Users\raman\.gradle\caches\transforms-3\f5cd879296e7a48bec641f683c7d84ac\transformed\runtime-saveable-1.4.0-alpha03\res
+com.example.jetpackcomp.app-resValues-72 C:\Users\raman\Videos\Github Androids\Compose\ComposeUI-main\app\build\generated\res\resValues\debug
+com.example.jetpackcomp.app-rs-73 C:\Users\raman\Videos\Github Androids\Compose\ComposeUI-main\app\build\generated\res\rs\debug
+com.example.jetpackcomp.app-packageDebugResources-74 C:\Users\raman\Videos\Github Androids\Compose\ComposeUI-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.jetpackcomp.app-packageDebugResources-75 C:\Users\raman\Videos\Github Androids\Compose\ComposeUI-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.jetpackcomp.app-merged_res-76 C:\Users\raman\Videos\Github Androids\Compose\ComposeUI-main\app\build\intermediates\merged_res\debug
+com.example.jetpackcomp.app-debug-77 C:\Users\raman\Videos\Github Androids\Compose\ComposeUI-main\app\src\debug\res
+com.example.jetpackcomp.app-main-78 C:\Users\raman\Videos\Github Androids\Compose\ComposeUI-main\app\src\main\res

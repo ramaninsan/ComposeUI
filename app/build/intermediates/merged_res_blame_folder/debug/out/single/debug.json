@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/xml_backup_rules.xml.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/font_poppins_light.ttf.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/font_poppins_regular.ttf.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/font_poppins_semibold.ttf.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/font_poppins_medium.ttf.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/font_poppins_bold.ttf.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.jetpackcomp.app-merged_res-77:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jetpackcomp.app-main-79:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
